@@ -106,3 +106,4 @@ st.subheader("Technologies Used")
 st.write("""
 Python • XGBoost • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning
 """)
+st.subheader("MADE BY AYUSH SANKHYAN")
